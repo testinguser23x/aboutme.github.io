@@ -1,0 +1,114 @@
+
+                        <!DOCTYPE html>
+                        <html lang="en">
+                        <head>
+                            <meta charset="UTF-8">
+                            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <style>
+                body {
+                  background-color: white; /* Ensure the iframe has a white background */
+                }
+    
+                
+              </style>
+                        </head>
+                        <body>
+                            <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+        }
+        .banner {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        .container {
+            max-width: 800px;
+            width: 90%;
+            padding: 30px;
+            background-color: #1e1e1e;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+            margin: 30px auto;
+        }
+        h1 {
+            color: #ffffff;
+            border-bottom: 2px solid #ffffff;
+            padding-bottom: 10px;
+            margin-top: 0;
+        }
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            display: block;
+            margin: 20px auto;
+            border: 3px solid #ffffff;
+        }
+        .section {
+            margin: 25px 0;
+        }
+        .section h2 {
+            color: #ffffff;
+            margin-bottom: 10px;
+        }
+        .section p {
+            line-height: 1.6;
+        }
+        .highlight {
+            color: #ffffff;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <img src="https://placehold.co/1920x842" alt="Banner" class="banner">
+    
+    <div class="container">
+        <h1>Sobre Mí</h1>
+        
+        <img src="https://placehold.co/150" alt="Foto de perfil" class="profile-img">
+        
+        <div class="section">
+            <h2>Hola, soy [Nombre]</h2>
+            <p>Bienvenido a mi página personal. Soy un apasionado profesional en [tu profesión] con experiencia en [área de experiencia]. Me encanta crear soluciones innovadoras y aprender nuevas tecnologías.</p>
+        </div>
+        
+        <div class="section">
+            <h2>Mi Historia</h2>
+            <p>Comencé mi viaje en [área profesional] hace [número] años. Desde entonces, he trabajado en proyectos desafiantes y he colaborado con equipos increíbles que me han permitido crecer tanto personal como profesionalmente.</p>
+        </div>
+        
+        <div class="section">
+            <h2>Mis Intereses</h2>
+            <p>Me apasiona [interés 1], [interés 2] y [interés 3]. Fuera del trabajo, disfruto de [actividad personal] y siempre estoy buscando nuevas oportunidades para aprender y mejorar.</p>
+        </div>
+        
+        <div class="section">
+            <h2>Contacto</h2>
+            <p>Puedes contactarme a través de <span class="highlight">[correo electrónico]</span> o visitar mi perfil en <span class="highlight">[red social]</span>.</p>
+        </div>
+    </div>
+</body>
+</html>
+
+
+    
+              <script>
+                              
+              </script>
+                        </body>
+                        </html>
+                    
